@@ -14,6 +14,9 @@ Repository ini berisi kode, analisis, dan sumber daya untuk pengerjaan **Midterm
 * **Task 3: Clustering Task**
     * **Deskripsi**:
     * **Metode**:
+ 
+## How to Navigate
+Terdapat beberapa branch pada repo ini, masing-masing branch dengan nama Task-n dimana masing-masing branch berisi file yang berbeda sesuai dengan urutan task yang diberikan.
 
 ### Repository ini dibuat oleh:
 Naufal Fadhil Muzakki Sutomo  
