@@ -1,0 +1,6 @@
+# .gitignore
+*.csv
+*.parquet
+midterm_folder/
+__pycache__/
+.ipynb_checkpoints/
