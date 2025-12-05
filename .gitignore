@@ -1,0 +1,5 @@
+# .gitignore
+midterm_folder/
+__pycache__/
+*.csv       
+*.pkl     
